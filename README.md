@@ -38,7 +38,7 @@ const me = {
 - 🔭 **현재 작업** — Next.js 기반 웹사이트의 검색 최적화 구조 개선
 - 🌱 **학습 중** — Generative Engine Optimization, AI 검색 시대의 콘텐츠 전략
 - 💬 **이야기 가능** — Technical SEO, Schema/JSON-LD, Core Web Vitals
-- 📫 **연락** — `didrod205@gmail.com`
+- 📫 **연락** — `gdode2080@gmail.com`
 - ⚡ **재미있는 사실** — 가장 좋아하는 디버깅 도구는 *Lighthouse*
 
 ---
@@ -154,7 +154,7 @@ const me = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didrod205)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didrod205@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdode2080@gmail.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=didrod205.didrod205&left_color=gray&right_color=blueviolet)
 
