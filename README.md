@@ -153,9 +153,6 @@ const me = {
 
 </div>
 
-> 💡 위 스네이크 애니메이션을 활성화하려면 `Settings → Actions → General`에서 워크플로우 실행을 허용하고,
-> `.github/workflows/snake.yml`을 추가해 주세요.
-
 ---
 
 ## 🌐 Contact
