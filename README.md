@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/didrod205">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+search-friendly+websites;React+%C2%B7+Next.js+%C2%B7+TypeScript;검색엔진과+사용자%2C+둘+다+만족하는+웹" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+search-friendly+websites;React+%C2%B7+Next.js+%C2%B7+TypeScript;Technical+SEO+%C2%B7+AEO+%C2%B7+GEO" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -21,8 +21,6 @@
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 
 ## ✦ &nbsp;About
 
@@ -101,6 +99,10 @@ Design System
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=didrod205&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=7AA2F7&area=true&area_color=7AA2F7" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/didrod205/didrod205/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
