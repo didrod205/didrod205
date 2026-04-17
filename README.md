@@ -133,12 +133,6 @@ const me = {
 
 <br/>
 
-<a href="https://github.com/didrod205">
-  <img src="https://github-profile-trophy.vercel.app/?username=didrod205&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
-</a>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=didrod205&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
 </div>
