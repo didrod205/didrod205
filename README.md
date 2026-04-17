@@ -133,7 +133,9 @@ const me = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=didrod205&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+<a href="https://github.com/didrod205">
+  <img src="https://github-profile-trophy.vercel.app/?username=didrod205&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+</a>
 
 <br/>
 
