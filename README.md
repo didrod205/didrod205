@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=didrod205&fontSize=70&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20SEO%20%C2%B7%20AEO%20%C2%B7%20GEO&descAlignY=58&descSize=18)
+<h1>didrod205</h1>
+<h3>Frontend Developer · SEO · AEO · GEO</h3>
 
 <a href="https://github.com/didrod205">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6C7BFD&center=true&vCenter=true&width=680&lines=Hi+there+%F0%9F%91%8B+I'm+didrod205;Frontend+Developer+focused+on+SEO%2C+AEO%2C+GEO;React+%2B+Next.js+%E2%80%94+fast%2C+search-friendly+websites;Building+the+web+that+search+engines+love+%E2%9C%A8" alt="Typing SVG" />
