@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=110&section=header&text=didrod205&fontSize=60&fontColor=7AA2F7&fontAlignY=55&desc=Frontend%20Developer%20%C2%B7%20SEO%20%2F%20AEO%20%2F%20GEO&descAlignY=85&descSize=14&descColor=A9B1D6" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=110&section=header&text=didrod205&fontSize=60&fontColor=7AA2F7&fontAlignY=55&desc=Local-first%20dev%20tools%20%C2%B7%20Frontend%20%C2%B7%20SEO%20%2F%20AEO%20%2F%20GEO&descAlignY=85&descSize=14&descColor=A9B1D6" alt="header" />
 
 <br/>
 
 <a href="https://github.com/didrod205">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+fast%2C+search-friendly+websites;React+%C2%B7+Next.js+%C2%B7+TypeScript;Technical+SEO+%C2%B7+AEO+%C2%B7+GEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=30%2B+zero-dependency%2C+local-first+dev+tools;Decode+%2F+lint+%2F+verify+things+-+nothing+uploaded;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Technical+SEO" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,6 +15,9 @@
 </a>
 <a href="https://github.com/didrod205">
   <img src="https://img.shields.io/badge/-@didrod205-1A1B26?style=flat-square&logo=github&logoColor=7AA2F7&labelColor=1A1B26" />
+</a>
+<a href="https://www.npmjs.com/~didrod2539">
+  <img src="https://img.shields.io/badge/-npm-1A1B26?style=flat-square&logo=npm&logoColor=BB9AF7&labelColor=1A1B26" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=didrod205&style=flat-square&color=7AA2F7&label=views&labelColor=1A1B26" />
 
@@ -26,17 +29,105 @@
 
 > *"검색엔진과 사용자, 둘 다 만족하는 웹을 만든다."*
 
-React와 Next.js로 빠르고, 검색에 잘 잡히는 웹사이트를 만듭니다.
-SEO · AEO · GEO를 함께 고려한 구조 설계와 성능 최적화에 집중하고 있어요.
+React와 Next.js로 빠르고 검색에 잘 잡히는 웹사이트를 만듭니다 (SEO · AEO · GEO).
+그리고 요즘은 **한 가지를 깊게 하는 작은 zero-dependency 오픈소스 도구**들을 만들어요 —
+전부 **로컬에서, API 키 없이, 아무것도 업로드하지 않고** 도는 것들로.
 
 ```ts
 const me = {
-  role:     "Frontend Developer",
-  focus:    ["SEO", "AEO", "GEO"],
-  stack:    ["React", "Next.js", "TypeScript"],
-  building: "fast, search-friendly websites",
+  role:     "Frontend Developer · OSS tool maker",
+  building: "30+ tiny, local-first developer tools",
+  values:   ["deterministic", "zero-dependency", "nothing uploaded"],
+  stack:    ["TypeScript", "React", "Next.js"],
 } as const
 ```
+
+<br/>
+
+## ✦ &nbsp;🔒 &nbsp;Try in your browser — nothing uploaded
+
+> The most convenient dev tools are often websites you paste sensitive data into.
+> I rebuilt three of them to run **entirely in your browser**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔍 [jwtlens](https://github.com/didrod205/jwtlens)
+Decode, audit &amp; **verify** JWTs — signatures checked with Web Crypto.
+<br/>↳ a local-first jwt.io
+<br/>**[▶ Live demo](https://didrod205.github.io/jwtlens/)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [csp-doctor](https://github.com/didrod205/csp-doctor)
+Find the XSS holes in a Content-Security-Policy (incl. bypassable CDN hosts).
+<br/>↳ a local CSP Evaluator
+<br/>**[▶ Live demo](https://didrod205.github.io/csp-doctor/)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🧽 [scrubpii](https://github.com/didrod205/scrubpii)
+Redact PII &amp; secrets from a payload — referential-integrity pseudonyms.
+<br/>↳ a local PII redactor
+<br/>**[▶ Live demo](https://didrod205.github.io/scrubpii/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ &nbsp;Open-source tools
+
+<sub>All TypeScript · zero runtime deps in the core · CLI + library · ESM + CJS · MIT. Each does <b>one thing well, locally</b>.</sub>
+
+**🔐 Security &amp; privacy**
+[jwtlens](https://github.com/didrod205/jwtlens) ·
+[csp-doctor](https://github.com/didrod205/csp-doctor) ·
+[scrubpii](https://github.com/didrod205/scrubpii) ·
+[unspook](https://github.com/didrod205/unspook) (invisible / Trojan-Source / homoglyph chars) ·
+[envlint](https://github.com/didrod205/envlint) (.env secrets &amp; schema) ·
+[entropass](https://github.com/didrod205/entropass) (password gen + strength) ·
+[checkdigit](https://github.com/didrod205/checkdigit) (Luhn / IBAN / ISBN / barcode)
+
+**🌐 Web, SEO &amp; content**
+[aeolint](https://github.com/didrod205/aeolint) (SEO/AEO + Google rich-result eligibility) ·
+[a11ylint](https://github.com/didrod205/a11ylint) (HTML accessibility / WCAG) ·
+[maillint](https://github.com/didrod205/maillint) (HTML email client compatibility) ·
+[docsanity](https://github.com/didrod205/docsanity) (docs-site health suite) ·
+[linklint](https://github.com/didrod205/linklint) (doc link &amp; anchor integrity) ·
+[readlevel](https://github.com/didrod205/readlevel) (readability metrics)
+
+**⚙️ Dev config &amp; CI**
+[tsconfig-doctor](https://github.com/didrod205/tsconfig-doctor) (tsconfig strictness &amp; footguns) ·
+[actionbudget](https://github.com/didrod205/actionbudget) (GitHub Actions CI-minute waste) ·
+[apilint](https://github.com/didrod205/apilint) (OpenAPI quality) ·
+[licenselint](https://github.com/didrod205/licenselint) (license audit + SBOM) ·
+[i18nlint](https://github.com/didrod205/i18nlint) (translation files)
+
+**📊 Data &amp; formats**
+[datalint](https://github.com/didrod205/datalint) (CSV/TSV data quality) ·
+[nanocsv](https://github.com/didrod205/nanocsv) (tiny CSV parser + CSV↔JSON) ·
+[verspec](https://github.com/didrod205/verspec) (SemVer toolkit) ·
+[pennywise](https://github.com/didrod205/pennywise) (exact BigInt money math) ·
+[spellnum](https://github.com/didrod205/spellnum) (numbers → words, EN/KO)
+
+**🎨 Color, image &amp; media**
+[okcolor](https://github.com/didrod205/okcolor) (OKLab/OKLCH + WCAG) ·
+[huebrew](https://github.com/didrod205/huebrew) (image → palette/theme) ·
+[dichroma](https://github.com/didrod205/dichroma) (color-blindness simulation) ·
+[scrubpix](https://github.com/didrod205/scrubpix) (strip image EXIF/GPS — [demo](https://didrod205.github.io/scrubpix/)) ·
+[captionkit](https://github.com/didrod205/captionkit) (subtitle convert &amp; re-time)
+
+**🧰 Time &amp; utilities**
+[croniq](https://github.com/didrod205/croniq) (cron toolkit) ·
+[tempora](https://github.com/didrod205/tempora) (human time utils) ·
+[calforge](https://github.com/didrod205/calforge) (.ics + add-to-calendar links) ·
+[fuzzrank](https://github.com/didrod205/fuzzrank) (fzf-style fuzzy matcher) ·
+[fetchwise](https://github.com/didrod205/fetchwise) (resilient fetch: retries/backoff)
 
 <br/>
 
@@ -45,43 +136,10 @@ const me = {
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,php,html,css,tailwind,sass,nodejs,vite,vercel,figma,git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,vite,php,html,css,tailwind,sass,vercel,figma,git,github,vscode&theme=dark&perline=8" />
 </a>
 
 </div>
-
-<br/>
-
-## ✦ &nbsp;Focus
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### Search Optimization
-```
-Technical SEO
-Schema.org / JSON-LD
-Answer Engine Optimization
-Generative Engine Optimization
-Core Web Vitals
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### Frontend Engineering
-```
-Component Architecture
-SSR / SSG / ISR
-Performance Optimization
-Accessibility (a11y)
-Design System
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
