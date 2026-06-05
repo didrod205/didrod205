@@ -47,11 +47,11 @@ const me = {
 ## ✦ &nbsp;🔒 &nbsp;Try in your browser — nothing uploaded
 
 > The most convenient dev tools are often websites you paste sensitive data into.
-> I rebuilt three of them to run **entirely in your browser**.
+> I rebuilt four of them to run **entirely in your browser**.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔍 [jwtlens](https://github.com/didrod205/jwtlens)
 Decode, audit &amp; **verify** JWTs — signatures checked with Web Crypto.
@@ -59,7 +59,7 @@ Decode, audit &amp; **verify** JWTs — signatures checked with Web Crypto.
 <br/>**[▶ Live demo](https://didrod205.github.io/jwtlens/)**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛡️ [csp-doctor](https://github.com/didrod205/csp-doctor)
 Find the XSS holes in a Content-Security-Policy (incl. bypassable CDN hosts).
@@ -67,12 +67,22 @@ Find the XSS holes in a Content-Security-Policy (incl. bypassable CDN hosts).
 <br/>**[▶ Live demo](https://didrod205.github.io/csp-doctor/)**
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧽 [scrubpii](https://github.com/didrod205/scrubpii)
 Redact PII &amp; secrets from a payload — referential-integrity pseudonyms.
 <br/>↳ a local PII redactor
 <br/>**[▶ Live demo](https://didrod205.github.io/scrubpii/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🍪 [cookie-doctor](https://github.com/didrod205/cookie-doctor)
+Lint Set-Cookie for security (HttpOnly/Secure/SameSite, `__Host-` prefix rules).
+<br/>↳ a local Set-Cookie checker
+<br/>**[▶ Live demo](https://didrod205.github.io/cookie-doctor/)**
 
 </td>
 </tr>
@@ -87,6 +97,7 @@ Redact PII &amp; secrets from a payload — referential-integrity pseudonyms.
 **🔐 Security &amp; privacy**
 [jwtlens](https://github.com/didrod205/jwtlens) ·
 [csp-doctor](https://github.com/didrod205/csp-doctor) ·
+[cookie-doctor](https://github.com/didrod205/cookie-doctor) (Set-Cookie security) ·
 [scrubpii](https://github.com/didrod205/scrubpii) ·
 [unspook](https://github.com/didrod205/unspook) (invisible / Trojan-Source / homoglyph chars) ·
 [envlint](https://github.com/didrod205/envlint) (.env secrets &amp; schema) ·
