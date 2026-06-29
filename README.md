@@ -180,3 +180,9 @@ Lint Set-Cookie for security (HttpOnly/Secure/SameSite, `__Host-` prefix rules).
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=80&section=footer&text=Thanks%20for%20visiting&fontSize=14&fontColor=A9B1D6&fontAlignY=70" />
 </div>
+
+## 💖 Sponsor
+
+Find this useful? [**Sponsor on GitHub**](https://github.com/sponsors/didrod205) — it keeps these projects maintained.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/didrod205)
